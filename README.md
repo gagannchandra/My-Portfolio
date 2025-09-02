@@ -1,4 +1,4 @@
-Got it 👍 You want **learning resources + certifications** that also strengthen your resume for **SDE roles in Big Tech**.
+Got it 👍 You want **learning resources + certifications** that also strengthen your resume for **SD roles in Big Tech**.
 Here’s a structured list:
 
 ---

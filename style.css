@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "software Developer";
+    content: "Working on problem-solving";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Learning Software Development";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Learning Web Development";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "Learning Database Management";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Learning Artificial Intelligence";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Learning Machine Learning";
     }
 }
 
@@ -267,4 +267,5 @@ span{
         margin-top: 4rem;
     }
 }
+
 
